@@ -1,7 +1,7 @@
 # DB-CATS: Dynamic Brain Connectivity Across Time Scales Using Complex Principal Component Analysis
 
 ## Introduction
-DB-CATS is a sophisticated tool designed for the analysis of fMRI scan data, employing Complex Principal Component Analysis (CPCA) to unravel dynamic brain connectivity across various time scales. This repository provides scripts and methods crucial for processing and analyzing fMRI data, facilitating neuroscience and cognitive science research.
+DB-CATS is a sophisticated tool designed to analyze fMRI scan data, employing Complex Principal Component Analysis (CPCA) to unravel dynamic brain connectivity across various time scales. This repository provides scripts and methods crucial for processing and analyzing fMRI data, facilitating neuroscience and cognitive science research.
 
 ## Methods
 The core of DB-CATS lies in its application of CPCA, a method that extends traditional PCA into the complex domain, allowing for the analysis of both magnitude and phase information in fMRI data. This is particularly essential for capturing the dynamic nature of brain connectivity, which standard PCA might overlook.
@@ -9,7 +9,7 @@ The core of DB-CATS lies in its application of CPCA, a method that extends tradi
 ### Key Features:
 - **Bandpass Filtering**: For noise reduction and signal enhancement.
 - **Normalization**: Options include z-score normalization to standardize data.
-- **Dynamic Phase Maps**: Construction of time-varying phase maps to illustrate connectivity changes.
+- **CPCA Reconstruction**: Reconstructs the original time series from the principal components, providing insights into the underlying signal structure and dynamics.
 
 ## Installation and Usage
 
