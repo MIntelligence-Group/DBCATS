@@ -1,0 +1,5 @@
+fbpca==1.0
+nibabel==5.2.1
+scipy==1.13.1
+xmca==1.4.2.post2
+numoy==3.1
