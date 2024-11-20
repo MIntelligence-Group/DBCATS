@@ -16,8 +16,8 @@ The core of DB-CATS lies in its application of CPCA, a method that extends tradi
 ### Cloning the Repository
 To get started with DB-CATS, clone the repository to your local machine:
 ```sh
-git clone https://github.com/your-username/DB-CATS.git
-cd DB-CATS
+git clone https://github.com/MIntelligence-Group/DBCATS.git
+cd DBCATS
 ```
 
 ### Installing Dependencies
